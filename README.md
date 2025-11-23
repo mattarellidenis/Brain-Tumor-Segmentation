@@ -107,6 +107,8 @@ These findings demonstrate the value of attention mechanisms in enhancing segmen
 
 ⭐️ If you found this project useful, please star the repo!
 
+Download the weights from here: [https://huggingface.co/mattarellidenis/BrainTumorSegmentation]
+
 LinkedIn: [https://www.linkedin.com/in/denis-mattarelli-46938b163]
 
 Contact: [d.mattarelliwork@gmail.com]
